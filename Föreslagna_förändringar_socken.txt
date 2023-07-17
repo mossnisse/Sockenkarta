@@ -1,0 +1,162 @@
+Socknarna är lite problematiska
+
+Ett problem är skillnad mellan Kyrksocken och Jordebokssocknar. De flesta skillnaderna fixades i slutet av 1800-talet genom att jordebokssocknarna ändrades så att de följer kyrksocknarna så för 1900-tals gränserna så borde det inte vara så stora skillnader.
+
+Städer och köpingar med stadsrättigheter eller liknande har också haft sin egen administration och inte varigt en del av någon socken. En del har inte används som egna "socknar"/Distikt av botaniker och är så små så att det är svårt att säga om något kollekt faktiskt är samlat innanför stadens administrativa gränser. Det är också vanligt att städers gränser sucksesivt har utökats.
+Mitt förslag är att vara pragmatisk och använda större städer och köpingar som botaniker har använt som egna distrikt och slå samman andra med omgivande socken.
+
+Det är också många fall där det finns en stad och en socken som inte är samma sak men har samma namn. Vi lägger inte till "socken" eller "stad" i namnet så de är svåra att skilja mellan dem och vi kan inte ha två olika distrikt i samma provins med identiska namn. Så det finns flera fall i Håkans lista där staden och socknen är sammanslagna endast på grund av att de råkar ha samma namn.
+
+Socknar har också bildats, slagits samman, bytt namn och gränser ändrats med tiden. Ett av argumenten att använda socknar är att de inte ändras till skilnad från kommuner, men det är inte helt sant. För att det i praktiken ska fungera måste vi frysa gränserna från ett visst år.
+Jag föreslår att använda gränser och namn från 1935-01-01. Det är inget speciellt med årtalet men då ska de sista socknarna ha skapats och jag tycker att förändringar efter det inte egentligen har det vi menar med socknar att göra. Det vanligaste sentida förändringarna är att städer har ätit upp hela omgivande socknar eller bara delar av dem.
+
+Första kommunreformen skedde redan 1863 då större delen av den administrativa relevansen av socknarna fördes över till kommunerna. Men socknarna har fortsatt att ha en marginell administrativ betydelse. Fastighetregistret fortsatte att ligga på jordebokssocken. Fastighetsregistret fördes över till kommunerna mellan 1976 till 1995. Så jordebokssocknarna förlorade inte all betydelse förän 1995!. Det finns inte direkt någon klar skillnad mellan kyrksocknar och församlingar och det som ofta har varigt tillgängligt för botaniker har varigt generalstabskartorna där det ofta uttryckligt står att det är landsförsamlingsgränser som är utritade. Det fortsatte med tiden att bildas flera församlinga där befolkningen ökade och senar mot 2000 talet började församlingarna mera slås samman, så många förändringar av församlingarna är gjorda efter att Kyrkan mer och mera skilts från staten och namnet församling används i stället för socken. Jag vill inte att det ska påverka våran sockenindelning.
+Riksantivkare ämbetet har haft en sockenkarta som de ärft från fastighetsregistret, så det är mera jordebokssocknar. Det är många konstigheter som tusentals små enklaver och märkliga sockennamn som "Umeå landsförsamling". Lantmäteriet har en annan sockenkarta (socken och stad) som också bygger på fastighetsregistret, den är förvånandsvärt olikt RAÄ karta och inhehåller andra konstigheter antagligen mycket för att de har försökt tolka ändringar från fastighetsregistret fram till 1995 och för städer kommunreformen 1971 så att de på något sätt gäller för socknar, det blir självklart konstigt. 
+
+Håkans sockenlista följer i stort sätt RAÄ sockenkarta/lista med några undantag som är för dumma för att kunna följa och städer och socknar med samma namn. Jag föreslår en rad förändringar från den så att den bättre följer ovanstånde regler.
+
+Norrbotten: 
+Luleå stad borde räknas som en del av Nederluleå socken (praktiskt). Nederluleå + Överluleå socken hette Luleå socken innan splitningen. Det som i listan kallas Luleå socken menas Luleå stad som är relativt littet och helt omslutet av Nederluelå socken.
+Lantmäteriets socken och stad har Muonionalusta som en egen socken men det har alldrig varigt någon socken och den finns inte med i Håkans lista. 
+Pite stad är skilt från piteå socken och bröts ut 1686 borde behandlas som en del av Piteå socken förutom en del exklaver som ligger i Hortlax socken (praktiskt). Det finns ingen separat Piteå stad i Håkans lista.
+
+Västerbotten: 
+Skilj Holmsund från Umeå socken. Holmsund blev en egen jordebokssocken 1918 enligt flokräkningen 1920. Det har nog aldrig varigt någon kyrksocken men Holmsund borde ha varigt en jordebokssocken 1935 och borde därför räknas som ett eget distrikt skilt från Umeå. Holmsund var en egen kommun så den har ofta räknats som ett eget distrikt av botaniker så är därför praktiskt att använda.
+Holmön blev en egen jordebokssocken 1925 enligt folkräkningen 1930 och den administrativa historian liknar Holmsund.
+Skellefteå stad och Umeå stad räknas redan som delar av omgivande socknar.
+Fortsätt räkna Umeå stad som en del av Umeå socken (Praktiskt).
+
+Lappland:
+Fortsätt räkna Kiruna stad som en del av Jukkasjärvi socken Jukkasjärvi socken ombildades till Kirunda stad 1948 (Efter 1935). Hela Jukkasjärvi socken är formelt Kiruna stad efter 1948 så det är världens största stad.
+Fortsätt räkna Lycksele stad som en del av Lycksele socken (praktiskt).
+
+Ångermanland:
+Gudmundrå socken i Ångermanland uppgick 1947 i Kramfors stad det är efter 1935 så jag tycker vi ska återuppliva Gudmundrå socken och i stället införliva Kramfors stad i Gudmundrå socken (praktiskt).
+Multrå landskomun inkorporerades i Sollefteå stad 1952 (efter 1935) Så jag tycker vi ska återuppliva Multrå socken och skilja den från Sollefteå stad. Sen kan vi låta Sollefteå stad vara en del av Sollefteå socken.
+Örnsköldsvik stad är liten och ligger mellan Själevad och Arnäs socknar. Köpingen bildades från Själevads socken så jag föreslår att Örnsköldsvik stad räknas som en del av Själevads socken. 
+Däremot gick Härnö socken upp i Härnösand stad redan på 1800 talet så jag tycker det är bra att ha Härnösand stad och inte Härnö socken.
+
+Jämtland:
+Ser inge direkta förändringar som borde göras.
+
+Medelpad:
+Ser inge direkta förändringar som borde göras.
+
+Härjedalen:
+Ser inga direkta förändringar som borde göras.
+
+Hälsingland:
+Räkna Hudiksvall stad som en del av Hälsingtuna socken?, Söderhamns stad innefattar Sandarne och lite av skärgården så jag tycker vi kan ha kvar staden som ett eget distrikt (Fixa min sockenkarta). Forstätt räkna Bollnäs stad som en del av Bollnäs socken. Bollnäs stad bildades 1942 (efter 1935)
+
+Dalarna:
+Räkna Faluns stad som end del av Stora Kopparbers socken (praktiskt)?
+Räkna Borlänge stad som en del av Stora Tuna socken (praktiskt)?
+Avesta stad har varigt en egen socken så vi borde fortsätta räkna Avesta stad som ett eget distrikt.
+Fortsätt räkna Ludvika stad som en del av Ludvika socken, Hedemora stad som en del av Hedemora socken, Säter stad som en del av Säter socken.
+fixa Svartnäs socken och Malingsbo socken i min sockenkarta!
+Fortsätt räkna Karlskoga stad som en del av Karlskoga socken (Praktiskt).
+
+Gästrikland:
+Ser inte direkt några förändringar som borde göras.
+
+Värmland:
+Varnums socken uppgick 1951 i Kristinehamns stad (efter 1935) så borde räknas som ett eget distrikt och skiljas från Kristinemans stad. Kristinehamns stad är rätt så stor så inte slå samman det med Varnums socken?
+By socken upgick i Säffle köping 1943 (Efter 1935) och borde därför räknas som ett eget distrikt och skiljas från Säffle stad.
+Tveta socken upgick i Säffle stad 1951 (Efter 1935) och borde därför upplivas och räknas som ett eget distrikt och skiljas från Säffle stad.
+Huggenäs socken nära Säffle har medeltida ursprung och borde helt klart vara med (Landskomunen upgick i Värmlandsnäs landkommun 1952 Så räknas det till Säffle stad eller Södra Ny socken i RAÄ karta?).
+Filipstad stad borde räknas som en del av Färnebo socken (praktiskt).
+Storfors socken finns med i Lantmäteriets Socken och stad karta men har nog alldrig varigt någon socken men församlig och köping.
+Fortsätt räkna Åmåls stad som en del av Åmål socken (praktiskt).
+
+Västmanland:
+Säterbo socken upplöstes 1947 och området överfördes till Arboga socken och stad (Efter 1935). Jag föreslår därför att återuppliva Säterbo socken.
+Badelunda socken uppgick 1946 i Västerås stad (Efter 1935) och borde därför skiljas frå Västerås stad.
+Skerike socken uppgick 1952 i Västerås stad (Efter 1935) och borde därför skiljas frå Västerås stad.
+Västanfors socken ombildades till Fagersta stad 1944 (Efter 1935), Så byt namn på Fagersta stad till Västanfors socken. 
+Kolsva socken kallades för 1950 Bro och Malma socken som bildades genom en sammanslagning av Bro socken och Malma socken 1939. Så splitta Kolsva socken till Bro socken och Malma socken som två separata distrikt.
+Linde socken och Lindsbergs stad borde slås samman (praktiskt). Lindesbergs stad är liten och Linde socken kallas ofta Lindesbergs socken så det är opraktiskt att skilja socknen och staden åt.
+Fortsätt räkna Sala stad som en del av Sala socken (praktiskt).
+Nora stad som en del av Nora socken (praktiskt). 
+Arboga stad som en del av Arboga socken (praktiskt).
+
+Uppland: 
+Sankt Pers socken & Sankt Olofs socken upgick i Sigtuna stad 1948 (Efter 1935) så borde splittas upp och räknas som separata distrikt.
+Spånga socken upplöstes och splittades upp 1945 (efter 1935) till Stockholms kommun, Sollentuna kommun och Sundbybergs kommun. Spånga socken borde återupplivas och gränser ljusteras.
+Bondkyrka socken upgick 1947 i Uppsala stad (efter 1935) så socknen borde återuplivas och splittas ut från Uppsala stad.
+Gammla Uppsala socken upgick 1947 i Uppsala stad (efter 1935) Ska vi fortsätta låta gammla Uppsala socken och Uppsala stad räknas som ett distrikt av praktiska själ?
+Arnös socken upplösted 1943 (efter 1935) och slogs samman med Kungs-Husby socken. Borde delas upp och Arnö räknas som en egen socken.
+Östhammar stad är liten och opraktiskt, kyrkligt slogs samman med Öregrund men det hänger inte samman geografiskt så det är inte heller praktiskt. Så jag föreslår i stället att slå samman Östhammar med Börstils socken.
+Öregrund stad är litet och opraktist att använda borde också slås samman med Börstils socken.
+Slå samman Enköping stad med Vårfrukyrka socken?
+Norrtälje stad?
+Ändra namn på Kungsängens socken till Stockholms-Näs socken. Församlingen namnändrades 1967 till Kungsängens församling, det är gäller nog inte socknen och är efter 1935 så det gammla sockennamnet Stockholms-Näs borde användas.
+
+Närke:
+Längbro socken uppgick 1937 i Örebro stad (Efter 1935). Så socknen borde återuplivas och splittas ut från Örebro stad.
+Almby socken uppgick 1943 i Örebro stad (Efter 1935). Så socknen borde återuplivas och splittas ut från Örebro stad. 
+Ånsta socken uppgick 1943 i Örebro stad (Efter 1935). Så socknen borde återuplivas och splittas ut från Örebro stad. 
+Eker socken uppgick 1952 i Örebro stad (Efter 1935). Så socknen borde återuplivas och splittas ut från Örebro stad.
+Laxå löping bildades 1946 (Efter 1935) genom en ombildning av Ramundeboda landskommun. Så området borde behandlas som Ramundeboda socken.
+Fortsätt räkna Kumla stad som en del av Kumla socken (Kumla stad bildades 1942, efter 1935).
+
+Södermanland:
+Gåsinge och Dillnäs sockenar slogs samman 1941 (Efter 1935). Så jag föreslår att splitta Gåsinge-Dillnäs socken i två separata socknar Gåsinge socken och Dillnäs socken.  
+Sankt Nicolai socken uppgick 1950 i Nyköpings stad och Oxelösunds stad (Efter 1935). Så socknen borde återupplivas och splitas ut från Nyköping och Oxelösunds städer. Socknen ändrade namn till Sankt Nikolai och senare till Nikolai det efter 1935 så stanvningen Sankt Nicolai borde användas.
+Oxelösunds stad bildades 1950 (Efter 1935) Så hela staden borde räknas som en del av Sankt Nicolai socken.
+Nyköpings stad för litet för att vara praktiskt (gränser innan 1950)?
+Västertälje socken uppgick 1946 i Södertälje stad (Efter 1935). Så jag föreslår att bryta ut Västertälje socken från Södertälje stad.
+Husby-Sjuhundra borde byta namn till Husby-Lyhundra. Socknen bytte härad och namn 1952 (Efter 1935) Så det älldre namnet borde användas.
+
+Dalsland:
+Fortästt att räkna Åmåls stad som en del av Åmåls socken (praktiskt).
+
+Bohuslän: 
+Bäve socken uppgick 1945 i Uddevalla stad (Efter 1935). Så Bäve socken borde återuplivas och splittas från Uddevalla stad. 
+Kungshamns socken borde återupplivas och splittas ut från Askums socken. Smögens församling borde räknas som en del av Kungshamns socken
+Malmöns socken borde återupplivas. Jordebokssocknen införlivades i Askums socken 1940 (Efter 1935)
+Lysekil som en del av Lys socken?
+
+Västergötland: 
+Öms socken uppgick 1952 i Skövde stad (Efter 1935). Så Öms socken borde återupplivas och splitas ut från Skövde stad.
+Slå samman Grästorps köping med Tegene socken. Grästorps köping år så litet så det skulle vara praktiskt.
+Tibro köping bildades 1947 genom en ombildning av Kyrkefalla landskommun (Efter 1937). Så området borde kallas Kyrkefalla socken. 
+Vassända-Naglums uppgick 1945 i Vänersborgs stad och Trollhättans stad (Efter 1935). Så Vassända-Naglums socken borde återupplivas från delarna av Vännersborg och Trollhättan. 
+Björkängs socken upgick i Töreboda köping 1939 (Efter 1935) Så jag föreslår att vi använder Björkängs socken i stället för Töreboda köping.
+Brunns socken upgick 1938 i Ulricehamns stad (Efter 1935). Så jag föreslår att vi återupplivar och bryter ut Brunns socken från Ulricehamns stad.
+Byt namn på Varnhems socken till Skarke? Namnet var Skarke socken för 1937 enligt Wikipedia.
+Västra Frölunda socken uppgick 1945 i Göteborgs stad (Efter 1935). Så jag föreslår att vi återupplivar Västra Frölunda socken och bryter ut den ur Göteborgs stad. 
+Bälinge socken uppgick 1955 i Alingsås stad (Efter 1935). Så jag föreslår att vi återupplivar Bälinge socken och bryter ut den ur Alingsås stad.
+Rödene socken uppgick 1952 i Alingsås stad (Efter 1935). Så jag föreslår att vi Återupplivar Rödene socken och bryter ude den ur Alingsås stad.
+Fortsätt att räkna Alingsås stad som en del av Alingsås socken (Praktiskt)
+
+Östergötland:
+Vinnerstads socken uppgick 1948 i Motala stad(efter 1935). Borde splittas ut från Motala socken. 
+Sankt Pers socken uppgick 1952 Vadstena stad (efter 1935). Borde splittas ut från Vadstena stad. 
+Borgs socken uppgick 1936 i Norrköpings stad (efter 1935). Borde splittas ut från Norrköpings stad.
+Söderköpings stad?
+
+Gotland:
+Inga direkta förändringar. Gotlands socknar har varigt relativt stabila och i alla fall en del av enklaverna är historiskt korrekta.
+
+Småland:
+Sandseryds socken ombildades 1943 till Norrahammars köping (Efter 1935). Så jag föreslår att ändra Norrahammars köping till Sandseryds socken. 
+Sävsjö stad bildades 1947 (Efter 1935). Så jag föreslår att Splitta Sävsjö stad i Norra ljunga socken och Vallsjö socken. 
+Hjärtlanda socken upgick i Sävsjö stad 1952 (Efter 1935). Så socknen borde återupplivas och splittas ut från Sävsjö stad. 
+Säby socken uppgick 1951 i Tranås stad (efter 1935). Så socknen borde återupplivas och splittas ut från Tranås stad.
+Oskarshamns stad som en del av Döderhults socken?
+Nybro stad som en del av Madesjö socken?
+Fortsätt att ha Nässjö stad som en del av Nässjö socken (praktiskt).
+Fortsätt att ha Eksjö stad som en del av Eksjö socken (praktiskt).
+Forstätt att ha Nässjö stad som en del av Nässjö socken (praktiskt).
+Fortsätt att ha Vetlanda stad som en del av Vetlanda socken (praktiskt).
+
+Öland:
+Inga direkta förändringar
+
+Halland:
+Fortsätt att ha Ronneby stad som en del av Ronneby socken (praktiskt).
+Fortsätt att ha Sölvesbors stad som en del a Sölvesborgs socken (praktiskt).
+
+Skåne:
+Husie socken upgick 1935 i Malmö stad (Efter 1935-01-01). Så socknen borde återupplivas och splittas ut från Malmö stad.
+Södra Sallerup uppgick 1952 i Malmö stad (Efter 1935). Så socknen borde återupplivas och splittas ut från Malmö stad.
