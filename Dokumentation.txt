@@ -1,0 +1,40 @@
+Sockenkarta 1935 Dokumentation
+Syfte och användning
+Socknar används fortfarande för etikettering och registrering av botaniska kollekt. Kollekterna i Sveriges herbarier är från år 1800 fram till i dag med mycket från slutet av 1800 talet fram till ca 1950. Det är ofta just socken som finns nedskrivet på dem och socknarna har inte ändrats så mycket som kommunerna. Före år 1952 var det 2500 kommuner och 2024 är det bara 290. Riksantikvarieämbetets sockenkarta och Lantmäteriets sockenkarta har många konstigheter i namn och gränser och följer mera gränserna när fastighetsregistret gick över från socken till kommuner (1976 - 1995). Så det har funnits ett behov att ta fram en mera historiskt korrekt och konsekvent sockenkarta.
+Format
+Geopackage, multipolygons i Sweref99TM
+Attribut tabellen:
+<name> - namn på socken. Det ska vara det officiella namnet som gällde 1935. Och namnet måste vara unikt för landskapet. Det finns något enstaka undantag där det är flera socknar har samma namn i ett landskap. Då har kommun lagts till efter namnet i hakparenteser eller ett senare namn har använts.
+<alternative_names> - en komma separerad lista på namn som har används på socknen eller enheter som kan användas som socknar och som här räknas som en del av socknen. Är praktiskt att använda för att söka fram socknar.
+<floraprovins> - nästan samma sak som landskap, den enda skillnaden är att Lappland är uppdelat i lappmarker. Några socknar går över landskapsgränser, de fallen ska kommenteras i <comments>
+<comments> - diverse kommentarer om socknen. Namnändringar, osäkerheter och oregelbundenheter m. m.
+<border_changes> - en radbytes separerad lista på ändringar av sockengränserna och ändringar av administrativ status. Tidigare ändringar än 1800 ska inte vara med. Varje rad börjar med årtal och - slutar med referens för informationen. Är inte fullständig.
+<härad> - för vissa delar av landet saknas härad eller så har bergslag/roslag använts eller fältet lämnats tom. I vissa fall har socknar varigt uppdelat mellan olika härad och härader har ändrats. Kommenteras inte då härader sällan har använts av botaniker.
+<kommun> - Dagens (2024) kommungränser och namn. I de fallen socknar går över kommungränser borde det kommenteras i <comments>
+<Län> - Dagens (2024) länsgränser och namn. I de fallen socknar går över länsgränser borde det kommenteras i <comments>.
+<type_swedish> - Städer och köpingar har haft sin egen administration och inte varigt en del av någon socken. Så här angivs det om området är en socken, stad eller köping
+<type-english> - Engelska benämningen på socken - parish eller stad/köping - town/borough.
+<origin> - medeltida eller årtal och från vilken socken socknen har brutits ur. Samt större förändringar mellan år 1500 och 1800.
+Socken historia
+De flesta socknar har ett ursprung från medeltiden. De har varigt viktiga för det dagliga livet och bestämt vilken kyrka du ska gå med och skatter m.m.
+För varje socken fanns en sockenkyrka med en präst och kyrkbok. Det fanns också en jordebook i centralorten för varje län där det stod vem som ägde vilka ”fastigheter” och var viktig för beskattningen. Efter hand så blev det en del skillnader mellan kyrksocknar och jordebokssocknar då jordeboken inte uppdaterades så mycket. På slutet av 1800 talet fixade oregelbundenhetskommissionen de flesta fall där kyrksocken och jordeboken inte stämde överens. Så vid slutet av 1800 talet ska det inte vara så stora skillnader mellan kyrksocken och jordebokssocken. Vi har också fall från 1900 talet då nya landskommuner bildas och då också en jordebokssocken men inte någon ny kyrksocken och det är tveksamt om det är en socken eller bara en landskommun.
+Vid kommunreformen 1862 förlorade socknarna den mesta administrativa betydelsen och de kyrkliga frågorna gick över till Församlingen och de borgliga till Landskommunen. Landskommunen hade oftast samma namn och utbredning som socknen ända fram till kommunreformen 1952. Städer och köpingar hade redan tidigare ett borgligt styre och fortsatte vara skilda från landskommunerna efter 1862, först 1971 gick kommunerna över till en enhetlig kommuntyp och landskommuner, städer och köpingar ombildades alla till samma typ av kommuner.
+Det innebär att städers och köpingar var separata från socknarna/landskommunerna fram till 1971. Det är vanligt att det fanns en socken/landskommun runt en stad/köping med samma namn som denna. Och att förändringar mellan landskommuner inte nödvändigtvis gäller socknar men däremot utökningar av städer och köpingar gör det då land som hör till en stad/köping inte kan tillhöra en socken.
+Bedömningar och undantag för sockenkarta 1935
+För att göra en karta som är konsekvent så följs gränserna som de var 1935-01-01. Då var de sista socknarna är skapade och de flesta förändringar efter det är mest städer och köpingar som har vuxit och småtrams. Kommunreformen 1862, då socknarna förlorade nästan all administrativ relevans skulle vara logiskt att använda, men det är för tidigt för att vara praktiskt.
+Många städer och köpingar har i sockenkartan slagits samman med omgivande socken, i de fall de har samma namn har de alltid gjorts. Städer och köpingar med större yta där kollekt bedöms kunna korrekt föras dit behandlas som separata socknar. I de fall det finns flera socknar med samma namn i ett landskap har namnet på kommunen lagts till efter namnet inom hakparenteser. I några enstaka fall har ett senare namn än från 1935 används då det skiljer socknen från andra som har haft samma namn. Det är också vanligt att det senare namnet har använts innan det officiellt beslutades. Det finns några landskommuner bildade på början 1900 talet som är tveksamt om de också är socknar, de har bedömts var för sig.
+Källor och referenser
+Kartan bygger på Lantmäteriets socken och stad som använder gränserna när fastighetsregistret gick från socken till kommuner (1976 - 1995). Riksantikvarieämbetet hade en liknande sockenkarta som också utgick från fastighetsregistret men ändå skiljer de sig i många punkter från lantmäteriets.
+https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/socken-och-stad/
+Gränserna har jämförts med flera olika gamla kartor beroende på vilka som finns över det specifika området.
+Generalstabskartan - ofta finns flera olika upplagor från ca 1837-1920 ibland har även senare Generalstabskartor från Norrland kontrollerats som inte finns tillgängliga på nätet.
+Häradskartan (från ca 1859-1934 en detaljerad handritad karta)
+Stomkartan (1820-1917)
+Ekonomiska kartan (1935-1990)
+De finns tillgängliga på kartbild.com (stort tack till Anders Ekholm, Knivsta), https://www.naturvardsverket.se/verktyg-och-tjanster/kartor-och-karttjanster/historiska-kartor/,  https://www.lantmateriet.se/sv/kartor/vara-karttjanster/Historiska-kartor/
+Som bakgrundskarta har lantmäteriets topowebkarta använts som kan läggas till genom deras WMTS server till dit GIS projekt https://apimanager.lantmateriet.se/devportal/apis/7930915b-a9c7-4421-9f6f-382378bf388e/overview.
+För att klura ut när gränsändringar är gjorda m.m. har Wikipedia använts (mest kollat år 2024) så stort tack till sockengruppen som arbetat med Wikipedia.
+Lagerstedt, T. (1973) Den civila lokalförvaltningens gränser 1630-1952. Innehåller notiser om förändringar av socknar.
+Folkräkningen (1910, 1920, 1930, 1940, 1945, 1950, 1960 publikationer från SCB. De har notiser om förändringar av socknar och andra administrativa gränser. https://www.scb.se/hitta-statistik/aldre-statistik/innehall/sveriges-officiella-statistik-sos/folk-och-bostadsrakningarna/folkrakningen-19101960/
+Slutligen är det QGIS 3.34.3-Prizren som har använts för att skapa och editera sockengränserna så också ett tack till alla programmerare som har bidragit till QGIS. https://qgis.org/
+Ursprungskällorna som jordeböcker, kungliga brev m.m. är svåra att tolka och hitta så de har inte använts.
