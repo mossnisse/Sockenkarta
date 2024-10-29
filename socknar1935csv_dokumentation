@@ -1,0 +1,36 @@
+CSV file format
+character coding UTF8 no BOM
+line ending widows style "\r\n"
+fields terminated by ;
+fields enclosed by "
+
+fields:
+"fid"	integer geopackage feuture id
+"name"	text socken name
+"härad"	text
+"kommun"	text
+"län"	text
+"alternative_names"	text comma separated list
+"comments"	text
+"type_swedish"	text if it is an socken, stad or köping
+"border_changes"	test
+"floraprovins"	text landskap med lappland updelat i lappmarker
+"type_english"	text
+"origin"	text
+"VUnique"	text
+"North"		integer centroid in Sweref99TM
+"NorthWGS84"	double centroid in WGS84
+"north_maxWGS84"	double northen tip latitude in WGS84
+"north_minWGS84"	double southern tip latitude in WGS84
+"east_minWGS84"		double western tip longitude in WGS84
+"east_maxWGS84"		double eastern tip longitude in WGS84
+"East"		integer	centroid in Sweref99TM
+"eastWGS84"	double centroid in WGS84
+"eastRT90"	integer	centroid in RT90
+"northRT90"	integer	centroid in RT90
+"east_minCircle"	integer center of minimal enclosing circle in Sweref99TM
+"north_minCircle"	integer center of minimal enclosing circle in Sweref99TM
+"distCentroid"	integer	distance from centroid to furthest point in polygon
+"distMinCircle"	integer	distance from center to perimeter of minimal enclosing circle
+"EastMiniCircle"	double center of minimal enclosing circle in WGS84
+"NorthMinCircle"	double center of minimal enclosing circle in WGS84
