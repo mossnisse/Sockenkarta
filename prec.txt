@@ -1,0 +1,36 @@
+from qgis.core import *
+from qgis.gui import *
+import math
+
+@qgsfunction(group='Custom', referenced_columns=[])
+def prec2(polly):
+    centr = polly.centroid().asPoint()
+    sqmaxdist = 0
+    i =0
+    for v in polly.vertices():
+        sqdist = polly.sqrDistToVertexAt(centr,i)
+        if sqdist>sqmaxdist:
+            sqmaxdist = sqdist
+        i = i+1
+    return math.sqrt(sqmaxdist)
+
+
+center of minimal circle
+x(minimal_circle(transform($geometry, layer_property(@layer, 'crs'),'EPSG:4326')))
+
+
+
+update district table
+#SELECT * FROM district left JOIN socknar1935 ON district.district = socknar1935.District AND district.Province = socknar1935.Province WHERE district.country = "Sweden";
+
+#Code = null, gadm_name = null, contrygadm = "Sweden" provincegadm = null
+#comments = comments + origin + border_changes
+
+# make geojson and update district
+
+DELETE FROM district1935 WHERE country = "Sweden" AND not district = "";
+
+INSERT INTO district1935 (district, Province, country, län, kommun, Latitude, Longitude, Continent, xmax, xmin, ymax, ymin, `precision`, RT90centrE, RT90centrN, countrygadm, typeEng, typeNative, alt_names, comments ) 
+SELECT district, province, "Sweden", län, kommun, Latitude, Longitude, "Europe", xmax, xmin, ymax, ymin, `precision`, RT90centrE, RT90centrN, "Sweden", typeEng, typeNative, alt_names, Concat(comments,"\r\nursprung:\r\n",origin,"\r\ngränsändringar:\r\n",border_changes) FROM socknar1935;
+
+SELECT * FROM district1935 WHERE country = "Sweden";
